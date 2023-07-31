@@ -16,3 +16,6 @@
   <img src="https://makeindiegames.com.br/wp-content/uploads/2014/12/construct-2-logo.png" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" width="100" />
 </div>
+<h2>Estatísticas de perfil: </h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasFortunatoRosset&theme=dark&show_icons=true)
