@@ -26,3 +26,6 @@
   <a href="https://instagram.com/_sinxyt" target="_blank"><img loading="lazy"
   src="https://1.bp.blogspot.com/-4uF8X1wt_Xg/XbYe8-3tzOI/AAAAAAABvAE/qQMvZlpEZsE1m3AgqiFNWJzBhDZsutYzgCLcBGAsYHQ/s1600/insta%2Blogo.jpg"   target="_blank" width="150"></a>
 </div>
+
+<br></br>
+<h3>Thank you for read!</h3>
