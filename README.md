@@ -15,7 +15,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" width="100" />
   <img src="https://makeindiegames.com.br/wp-content/uploads/2014/12/construct-2-logo.png" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="100" />
 </div>
 <h2>Estatísticas de perfil: </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasFortunatoRosset&theme=dark&show_icons=true)
+
+<h2>Contato: </h2>
+<div>
+  <a href="https://instagram.com/_sinxyt" target="_blank"><img loading="lazy"
+  src="https://1.bp.blogspot.com/-4uF8X1wt_Xg/XbYe8-3tzOI/AAAAAAABvAE/qQMvZlpEZsE1m3AgqiFNWJzBhDZsutYzgCLcBGAsYHQ/s1600/insta%2Blogo.jpg"   target="_blank" width="150"></a>
+</div>
