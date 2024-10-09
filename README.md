@@ -1,6 +1,6 @@
 ### Hi peoples, my name is Jonas!
 <h2>Um pouco sobre mim...</h2>
-<p>Eu começei no mundo da programação em 2022, ano no qual eu estava preocupado na escolha de um curso técnico, então eu começei a pesquisar no youtube conheci algumas linguagens, no caso HTML e CSS, após isso adiquiri interesse na área e comprei um curso online com foco em HTML, CSS e JS, para preparar uma base para o técnico de informática que iniciei no ano de 2023 e também para adquirir conhecimento a frente dos outros como um diferencial, no ano de 2023 com o curso em andamento aprendi coisas novas, e foquei em python, linguagem na qual tenho maior repertório, juntamente com HTML, CSS e JS</p>
+<p> Atualmente estou estou trabalhando em meu projeto de conclusão de curso na área de informática, o nome do projeto/repositório é TotalForce, nele estou desenvolvendo o back-end com python e flask, liguangem que tenho estudo mais aprofundado no momento. Tenho interesse em iniciar estudos sobre java e possuo inglês no nível intermediário.</p>
 <h2>Linguagens Estudadas: </h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" />
