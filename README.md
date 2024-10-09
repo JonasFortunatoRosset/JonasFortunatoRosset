@@ -22,8 +22,9 @@
 
 <h2>Contato: </h2>
 <div>
-  <a href="https://instagram.com/_sinxyt" target="_blank"><img loading="lazy"
-  src="https://1.bp.blogspot.com/-4uF8X1wt_Xg/XbYe8-3tzOI/AAAAAAABvAE/qQMvZlpEZsE1m3AgqiFNWJzBhDZsutYzgCLcBGAsYHQ/s1600/insta%2Blogo.jpg"   target="_blank" width="150"></a>
+  <li>Email: jonasfortunatorosset@gmail.com</li>
+  <a href="https://br.linkedin.com/in/jonas-fortunato-rosset-21b475256" target="_blank"><img loading="lazy"
+  src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"   target="_blank" width="150"></a>
 </div>
 
 <br></br>
