@@ -1,7 +1,7 @@
 # ***Jonas Fortunato Rosset***
 
 ## A little about me... 
-### I'm 20 years old, currentlly coursing computer engineering, in the thirth semester. I like to resolve problems with technology and always learning something new. In this year (2026) I started to learn Java with Spring Boot, to improve my skills in development.
+### I'm 20 years old, currentlly coursing computer engineering, in the fourth semester. I like to resolve problems with technology and always learning something new. In this year (2026) I started to learn Java with Spring Boot, to improve my skills in development.
 ## Known Stacks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
